@@ -1,0 +1,6 @@
+ython-telegram-bot==20.3
+pillow
+torch
+torchvision
+faiss-cpu
+boto3
